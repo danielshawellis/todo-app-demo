@@ -1,0 +1,18 @@
+.list {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.todos-container {
+  margin-top: 15px;
+}
+
+.todo {
+  padding: 5px;
+  margin: 5px 0;
+  border: 1px solid gray;
+}
+
+.todo-text {
+  margin-right: 5px;
+}
